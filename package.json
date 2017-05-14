@@ -1,0 +1,19 @@
+{
+  "name": "node-task-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://origamiwhale@github.com/origamiwhale/node-task-system.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/origamiwhale/node-task-system/issues"
+  },
+  "homepage": "https://github.com/origamiwhale/node-task-system#readme"
+}
