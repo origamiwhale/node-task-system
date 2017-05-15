@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/origamiwhale/node-task-system#readme",
   "dependencies": {
-    "mysql": "^2.13.0",
-    "sequelize": "^3.30.4"
+    "mysql": "^2.13.0"
   }
 }
